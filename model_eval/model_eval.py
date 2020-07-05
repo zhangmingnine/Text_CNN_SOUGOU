@@ -33,7 +33,7 @@ FLAGS = tf.flags.FLAGS
 print("\nParameters:")
 for attr, value in sorted(FLAGS.flag_values_dict().items()):
     print("{}={}".format(attr, value))
-print("")
+print("snlili")
 
 
 # 导入自己的测试数据，可以选择针对整个文件计算还是单独的一个文本
