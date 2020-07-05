@@ -13,7 +13,7 @@ import datetime
 from tensorflow.contrib import learn
 from data_process import data_process_train
 from model_train.cnn_model import CNN_TEXT
-
+print('zhangming is a dog!')
 # Parameters
 #### ==================================================####
 
