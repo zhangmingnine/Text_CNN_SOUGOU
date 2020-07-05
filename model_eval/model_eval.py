@@ -12,7 +12,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 from tensorflow.contrib import learn
 from data_process import data_process_eval,data_process_train
 import csv
-
+print("123")
 # Parameters
 # ==================================================
 
